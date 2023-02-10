@@ -22,6 +22,11 @@ Primitive functions are a set of functions made available globally for utility.
 - print() Write the output to the screen
 - println() writes with carriage return
 
+XMETAPL publication(10.2.23)<br/>
 <br/>More improvement coming soon! Stay Tuned! Thanks!
 
 <br/>Try it on http://www.artsmachine.org/v.php?p=xmetapl
+
+Bibliography<br/>
+- Wirth,Niklaus,"Algorithms+data structures=programs",Prentice-Hall,1976,USA
+- Bazon,Mihai,https://lisperator.net
